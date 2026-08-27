@@ -58,15 +58,17 @@ Viñesta es una aplicación web pensada para una bodega/vinoteca de Mendoza, Arg
 4. Abrí el proyecto en Visual Studio y ejecutalo con **F5**.
 
 ## Estructura del proyecto
+```
 ProyectoTest/
-├── Controllers/ # Controladores MVC
-├── Views/ # Vistas Razor (.cshtml)
-├── Logica/ # Capa de lógica de negocio y acceso a datos
-├── Models/ # Modelos de datos
-├── Content/ # CSS y estilos
-├── Scripts/ # Scripts JS (jQuery, DataTables, etc.)
-├── assets/ # Imágenes y recursos del template
-└── Database/ # Scripts / backup de la base de datos
+├── Controllers/    # Controladores MVC
+├── Views/          # Vistas Razor (.cshtml)
+├── Logica/         # Capa de lógica de negocio y acceso a datos
+├── Models/         # Modelos de datos
+├── Content/        # CSS y estilos
+├── Scripts/        # Scripts JS (jQuery, DataTables, etc.)
+├── assets/         # Imágenes y recursos del template
+└── Database/       # Scripts / backup de la base de datos
+```
 
 ## Créditos
 
